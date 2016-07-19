@@ -1,5 +1,7 @@
 # Prestashop Slack reporter
 
+[![Join the chat at https://gitter.im/ecomputer/Prestashop-Slack-reporter](https://badges.gitter.im/ecomputer/Prestashop-Slack-reporter.svg)](https://gitter.im/ecomputer/Prestashop-Slack-reporter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![](./doc/img/installed.png)
 
 Developer-oriented Prestashop plugin to get notified about PHP errors in a production website via Slack.
